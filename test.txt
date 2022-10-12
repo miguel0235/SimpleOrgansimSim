@@ -1,0 +1,18 @@
+eat seed
+eat leaf 
+eat grass
+status
+display
+excrete
+vomit
+status
+display
+clear
+status
+display
+eat seed
+eat leaf 
+eat grass
+display
+status
+
